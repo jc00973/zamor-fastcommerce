@@ -1,0 +1,33 @@
+/* Fastcommerce - Store 1 Async - 2020 (v1) */
+
+/* Colors */
+#search-button{background-color:<tag-FCCSSMainColor>;border:1px solid <tag-FCCSSMainColor>;}
+.HeaderCartNumberProds{background-color:<tag-FCCSSMainColor>;}
+.horizontalMenuArea{background:<tag-FCCSSMainColor>;}
+.dropdown:hover .dropbtn{background-color:<tag-FCCSSSecondMainColor>;}
+.dropdown-content a:hover:nth-child(odd){background:<tag-FCCSSMainColor>;}
+.dropdown-content a:hover:nth-child(even){background:<tag-FCCSSMainColor>;}
+.DivHomeDetails{background:#757575;}
+.DivHome-wishlist{background:#757575;}
+.list-prod-wishlist{background:#757575}
+#ContentFil .FilSearch .FilName{border-bottom:2px solid <tag-FCCSSSecondMainColor>;background:<tag-FCCSSSecondMainColor>;}
+.ProductList .fc-mobile-filters-left{background:<tag-FCCSSSecondMainColor>;}
+.CartDesign-categories-dropdown{color:<tag-FCCSSMainColor>;border-bottom: 2px solid <tag-FCCSSMainColor>;}
+#idListProdCrossFC li .EstCatProdCross .EstCatNameProdCross{color:<tag-FCCSSSecondMainColor>}
+.mixitup-control-active{background:<tag-FCCSSSecondMainColor>;color:#ffffff;}
+.CatSeeMoreFC{background:<tag-FCCSSSecondMainColor>}
+.zFPromoNotFound{background:<tag-FCCSSMainColor>}
+.HeaderCartItensPosition .HeaderCartNumberProds{background-color:<tag-FCCSSMainColor>}
+.ProductDet #idCommentsClickFC a{background:<tag-FCCSSMainColor>}
+.ProductDet #idEstNoCommentsClickProdOpFC a {background:<tag-FCCSSMainColor>}
+#idTxtRemoveFilters a{background-color:<tag-FCCSSMainColor>;border:0 solid <tag-FCCSSMainColor>}
+.FCError404h1{color:<tag-FCCSSSecondMainColor>}
+.fc-badge-product-sale{background-color:<tag-FCCSSMainColor>}
+.prod-list-progress-bar>div{background-color:<tag-FCCSSSecondMainColor>}
+@media only screen and (max-width:1024px){
+  .home-banner-one-separator-left div a,.home-banner-two-separator-left div a{background:<tag-FCCSSMainColor>;border:2px solid <tag-FCCSSMainColor>}
+  .home-banner-one-separator-left div a:hover,.home-banner-two-separator-left div a:hover{background:<tag-FCCSSMainColor>;border:2px solid <tag-FCCSSMainColor>} 
+}
+@media only screen and (min-width:1025px){
+  .home-banner-one-separator-left div a:hover,.home-banner-two-separator-left div a:hover{background:<tag-FCCSSMainColor>;border:2px solid <tag-FCCSSMainColor>}
+}
